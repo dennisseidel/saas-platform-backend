@@ -1,47 +1,6 @@
-# Project Boilerplate
-
-This project contains a template to use when creating a new project. It comes with all the standard files which there is expected to be in an open source project on Github. 
-
-## How to use
-
-1. Clone this project and copy the files into your own project
-2. Update files in `.github`, `CONTRIBUTING.md`, `CONTRIBUTORS.md`, `LICENSE`, `MAINTAINERS`, `SECURITY.md`, `README.md`
-3. Start developing!
-
-## Readme template
-
-Below you can find a complete readme template for a project (based on [work](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) by [@PurpleBooth](https://github.com/PurpleBooth)), this will help you communicate the vision and goals of the project as well as answering common questions from future contributors.
-
-The readme file is the single most important documentation of your project, so make sure you spend time on giving a great first impression to new users and provide the needed information to interested contributors.
-
-
----- 
-
-```
-Readme.md template below, when setup is complete, delete all content above this.
-```
-
-
 # saas-platform-backend
 
-_description_
-
-Describe what this project does. Keep this language human and friendly, so avoid internal references, acronyms and if you 
-have dependencies, provide a direct link to these.
-
-When describing features of your project, remember to explain why these are a benefit and advantage to the user:
-
-```
-This project allows you to scale X (feature) in a fast and predictable way (benefit) - meaning you will use fewer resources and can be confident in your X environment (Advantage).
-```
-
-Think about your project as a product, consider who your audience is, and how your decisions affect the number of potential users, below is a handy checklist of things to consider before open sourcing any code. 
-
-- **Avoid internal dependencies** Obviously projects that require internal specific infrastructure, configuration or process have very limited use to anyone outside internal. 
-- **Avoid narrow usecases** Does this solve a internal-only problem or does it have broarder application - is there things you could change to make it a more general product
-- **Have a Product vision** Do you know where you want to take this product? - then be open about it so future contributors are aware. Being opinionated is great and it helps set expectations and the direction for the project
-- **Take ownership** Are you are benevolent dictator or open to anything? - consider how you will interact with future contrbutors who expect you to be an active maintainer
-- **Safe defaults** How do people get up and running - are there alot of ceremony involved or can you provide a simple out of the box experience so it is easy for users to evaluate your project
+_This project allows you to create a SaaS service platform based on AWS that provides scalability and effiencent operations based on AWS hosted services - meaning you will have low bootstrap cost in terms of time and money as well as reduced operations overhead._
 
 
 ## Getting Started
